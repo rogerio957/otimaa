@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1
+https://edge04.balticlivecam.com/blc/p_Rhaetian_Railway_Switzerland/tracks-v1/mono.m3u8?token=eb0637af3610d1df509d8eb4882a3e31%3A1687013406722
+#EXTINF:-2
+https://edge01.balticlivecam.com/blc/RadissonDaugava/tracks-v1/mono.m3u8?token=20d7df4d42038141e6e5b3d71b1c5525%3A1687013554011
